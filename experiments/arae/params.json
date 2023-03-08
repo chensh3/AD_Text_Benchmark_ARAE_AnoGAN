@@ -13,7 +13,7 @@
         300
     ],
     "batch_norm": true,
-    "noise_radius": 0.05,
+    "noise_radius": 0.015014448454258698,
     "epoch_ae": 1,
     "epoch_disc": 5,
     "epoch_gen": 1,
@@ -24,8 +24,8 @@
     "lr_gen": 5e-06,
     "beta1": 0.5,
     "clip": 1,
-    "epoch_num": 0,
-    "batch_epoch": 0,
+    "epoch_num": 59,
+    "batch_epoch": 20,
     "gp_lambda": 10,
     "print_every": 10
 }
